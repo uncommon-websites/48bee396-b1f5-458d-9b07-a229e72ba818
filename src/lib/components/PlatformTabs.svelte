@@ -4,16 +4,16 @@
 
 <section class="py-20 bg-white font-sans">
     <div class="max-w-7xl mx-auto px-4 text-center">
-        <span class="text-[10px] font-bold text-gray-500 uppercase tracking-widest border border-gray-200 px-3 py-1.5 rounded-full bg-gray-50">Meet the AirOps Platform</span>
-        <h2 class="mt-8 text-5xl md:text-7xl font-serif-display text-gray-900 leading-tight">Where great <br/> brands go to drive <br/> growth</h2>
+        <span class="text-[10px] font-bold text-gray-500 uppercase tracking-widest border border-gray-200 px-3 py-1.5 rounded-full bg-gray-50">How It Works</span>
+        <h2 class="mt-8 text-5xl md:text-7xl font-serif-display text-gray-900 leading-tight">From client love to <br/> verified endorsements <br/> in minutes</h2>
     </div>
     
     <!-- Tabbed interface image area -->
     <div class="max-w-7xl mx-auto mt-16 px-4">
         <div class="border border-gray-200 rounded-xl overflow-hidden shadow-sm bg-white grid md:grid-cols-12 min-h-[600px]">
              <div class="md:col-span-4 p-8 md:p-12 border-r border-gray-200 flex flex-col justify-center">
-                 <h3 class="text-3xl font-serif-display mb-4">The smartest move is knowing your next</h3>
-                 <p class="text-gray-600 text-base leading-relaxed mb-8">In this new era, you need to know what to create to win visitors and customers. The AirOps platform brings together your data, competitors, and audience behavior so you can create a winning SEO content strategy with ease. Filter and view action items by URL, topic, and ease of effort, giving you a clear path.</p>
+                 <h3 class="text-3xl font-serif-display mb-4">Collect endorsements effortlessly</h3>
+                 <p class="text-gray-600 text-base leading-relaxed mb-8">Request endorsements from your happy clients with a simple, frictionless process. Our smart system makes it easy for clients to share their positive experiences, turning satisfaction into powerful social proof that drives conversions.</p>
                  <div>
                     <button class="text-sm font-bold border-b border-gray-300 pb-0.5 hover:border-gray-900 transition-colors">Learn More -></button>
                  </div>
@@ -34,22 +34,22 @@
                         <!-- Header Stats -->
                         <div class="grid grid-cols-4 gap-4">
                              <div class="p-3 bg-gray-50 rounded border border-gray-100">
-                                 <div class="text-[10px] text-gray-500 uppercase font-bold">Keywords</div>
-                                 <div class="text-xl font-bold text-gray-900">1,240</div>
+                                 <div class="text-[10px] text-gray-500 uppercase font-bold">Endorsements</div>
+                                 <div class="text-xl font-bold text-gray-900">247</div>
                                  <div class="text-[10px] text-green-600 font-bold">+12%</div>
                              </div>
                              <div class="p-3 bg-gray-50 rounded border border-gray-100">
-                                 <div class="text-[10px] text-gray-500 uppercase font-bold">Traffic</div>
-                                 <div class="text-xl font-bold text-gray-900">45.2k</div>
+                                 <div class="text-[10px] text-gray-500 uppercase font-bold">Verified</div>
+                                 <div class="text-xl font-bold text-gray-900">98%</div>
                                  <div class="text-[10px] text-green-600 font-bold">+8.5%</div>
                              </div>
                              <div class="p-3 bg-gray-50 rounded border border-gray-100">
-                                 <div class="text-[10px] text-gray-500 uppercase font-bold">Value</div>
-                                 <div class="text-xl font-bold text-gray-900">$12.4k</div>
+                                 <div class="text-[10px] text-gray-500 uppercase font-bold">Conversion</div>
+                                 <div class="text-xl font-bold text-gray-900">+42%</div>
                                  <div class="text-[10px] text-green-600 font-bold">+3.2%</div>
                              </div>
                              <div class="p-3 bg-gray-50 rounded border border-gray-100">
-                                 <div class="text-[10px] text-gray-500 uppercase font-bold">Difficulty</div>
+                                 <div class="text-[10px] text-gray-500 uppercase font-bold">Response</div>
                                  <div class="text-xl font-bold text-gray-900">42</div>
                                  <div class="text-[10px] text-gray-400 font-bold">Avg</div>
                              </div>

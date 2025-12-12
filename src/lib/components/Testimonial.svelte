@@ -5,7 +5,7 @@
 <section class="py-24 bg-white border-t border-gray-200 font-sans">
      <div class="max-w-7xl mx-auto px-4">
         <div class="text-center mb-16">
-            <h2 class="text-4xl md:text-5xl font-serif-display text-gray-900">Meet the marketing leaders <br/> rewriting the playbook</h2>
+            <h2 class="text-4xl md:text-5xl font-serif-display text-gray-900">Meet the sales leaders <br/> closing more deals with trust</h2>
         </div>
         
         <div class="grid md:grid-cols-2 border border-gray-200">
